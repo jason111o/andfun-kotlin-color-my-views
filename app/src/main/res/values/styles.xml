@@ -19,4 +19,13 @@ limitations under the License. -->
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="BoxOne">
+        <item name="android:textSize">@dimen/textSize24</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginTop">@dimen/marginSize16</item>
+        <item name="android:layout_marginStart">@dimen/marginSize16</item>
+        <item name="android:layout_marginEnd">@dimen/marginSize16</item>
+        <item name="android:background">@android:color/holo_green_light</item>
+    </style>
+
 </resources>
